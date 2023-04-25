@@ -63,7 +63,7 @@ To get started with this boilerplate, you'll need to have the following software
 
 ### Deploying to Vercel
 
-This boilerplate is set up to be deployed on Vercel and you can directly deploy this project by clicking the button below
+This boilerplate is set up to be deployed on Vercel and you can directly deploy this project by clicking the button below:
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Falchemyplatform%2Fvercel-alchemy-dapp-boilerplates-w-hardhat%2Ftree%2Fmain%2Ffrontend)
 
